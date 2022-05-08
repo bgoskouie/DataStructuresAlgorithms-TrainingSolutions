@@ -1,0 +1,26 @@
+Task 0 - O(0)
+                Because there is no loop involved and there is no "in" keyword used
+
+Task 1 - O(n)
+                The for loop uses O(n) and all the "if in" usages are for a set so don't add any overhead.
+
+Task 2 - O(n)
+                The first "for loop" i.e. "for record in calls:" makes it of O(n).
+                Then I am using a dictionary and its "if in" doesn't add any overhead.
+                "for" loops in two elements i.e. "for phonenum in [record[0], record[1]]:" just doubles the Big O but we don't consider it
+                The regular "if" condition of "if length > longest[1]:" doesn't add any overhead either.
+
+Task 3 - O(n log n)
+                "for record in calls:" makes it of O(n)
+                since sets are used "if callee not in bangalore_calls_to:" adds no overhead
+                "if code not in codes:" adds no overhead either because "codes" is a set
+                The "in" in "for code in sorted(codes):" makes it of O(n)
+                The "sorted" in sorted(codes):" makes it of O(n log n)
+                Overall The three O(n), O(n log n) and O(n) are in series, not inside each loop so we take the worst one O(n log n)
+
+Task 4 - O(n log n)
+                "for" loops like "for rec in texts:" and "for rec in calls:" are of O(n)
+                All the "if in" conditions are on dicts keys "if rec[1] not in num_d.keys():" so are of no overhead
+                The "for" in "for num in sorted(set(possible_telemarketers)):" is of O(n)
+                The "sorted is of O(n log n) but it is in series with the for loop on same line so total Big O for this line is O(n log n)
+                The first loops are also in series with the rest of the code.

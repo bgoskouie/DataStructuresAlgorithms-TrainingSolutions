@@ -1,2 +1,82 @@
 # DataStructuresAlgorithms-TrainingSolutions
-This repo includes all the training code and solutions (except projects) for the Udacity Data Structure and Algorithms class.
+This repo includes all the training code and solutions (except projects) for all the chapters of the Udacity Nano-Degree "Data Structues and Algorithms" class.
+
+- Chapter 1: project 1
+	- multiple tasks
+
+- Chapter 2: Data Structures
+	- LinkedLists
+		- Add One to an Array
+		- Balanced Paranthesis Exercise
+		- Duplicate Number in 0 N minus 2
+		- Implement a Queue Using Linkedlist
+		- Implement  Queue Using a Stack
+		- Implement a Queue Using Python List
+		- Linkedlist keep i remove j
+		- Minimum Bracket Reversals
+		- Nested LinkedLists
+		- Recursion
+		- Recursion Reverse a String
+		- Recursion is a String a Palindrome
+		- Recursion Add One to a Digitized Number
+		- Recursion Finding All Permutations
+		- Recursion Deep Reverse
+		- Recursion Tower of Hanoi
+		- Recursion Encrypt Code
+		- Recursion Subsets of an Array
+		- Recursion Staircase
+		- Recursion Last Index
+		- Replace Indices I and J
+		- Reverse a Queue Using a Stack
+		- Reverse a Stack
+		- Reverse Polish Notation
+		- Sort Linkedlist All Odds before Even Numbers
+		- Stack Implement Using an Array
+		- Stack Using Linkedlist
+	- Trees
+		- Depth First Search
+		- Preorder Traversal with a Stack
+		- Breadth First Search
+		- BST: Binary Search Tree
+		- Diameter of a Binary Tree
+		- Path from root to Node
+	- Maps and Hashing
+		- Hash Map
+		- String Key Hash Table
+		- Caching Staircase
+		- Pair Sum to Target
+		- Longest Consecutive Subsequence
+
+- Chapter 3: Problems vs Algorithms
+	- Basic Algorithms
+		- Binary Search First and Last Indices Problem
+		- Trie
+	- Sortig Algorithms
+		- Bubble Sort
+		- Merge Sort
+		- Counting Inversions
+		- Case Specific Sorting of Strings
+		- Quick Sort
+		- Heap Sort
+		- Pair Sum
+		- Sort012
+	- Faster Divide and Conquer
+		- Kth largest Element Divide and Conquer
+		- Max Sum Contiguous Subarray
+
+- Chapter 4: Advanced Algorithms
+	- Greedy Algorithms
+		- Dijkstras Shortest Path Algorithm
+		- Min Operations
+		- Min Platforms
+	- Graph Algorithms
+		- Dijkstras Algorithm
+		- Graph Breadth First Search
+		- Graph Depth First Search
+		- Prims Algorithm Connecting Islands
+	- Knapsack And Dynamic Programming
+		- Knapsack Prpblem: Fixed Max Value, Lowest Weight in a Bag
+		- Longest Common Subsequence
+		- Longest Palindrome Subsequence
+		- Coin Change
+		- Stock Prices
